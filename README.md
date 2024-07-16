@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <img src="../imagens/designpatterns.png" alt="design patterns" width="400px">
+    <img src="../imagens/design patterns.png" alt="design patterns" width="400px">
 </p>
 
 
