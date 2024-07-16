@@ -1,12 +1,12 @@
 
 
-<h1 align="center" style="font-weight: bold;">Design Patterns 💻</h1>
+
 
 
 <p align="center">
-    <img src="../imagens/design patterns.png" alt="design patterns" width="400px">
+    <img src="imagens/design patterns.png" alt="design patterns" width="400px">
 </p>
-
+<h1></h1>
 
 
 
