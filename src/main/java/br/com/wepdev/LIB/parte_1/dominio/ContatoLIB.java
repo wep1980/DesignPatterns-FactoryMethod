@@ -1,11 +1,11 @@
-package br.com.wepdev.LIB.resolvendo_problema_parte_1.dominio;
+package br.com.wepdev.LIB.parte_1.dominio;
 
-public class ContatoResolvendoProblemaParte1 {
+public class ContatoLIB {
 
 	private String nome;
 	private String email;
 
-	public ContatoResolvendoProblemaParte1(String nome, String email) {
+	public ContatoLIB(String nome, String email) {
 		this.nome = nome;
 		this.email = email;
 	}
