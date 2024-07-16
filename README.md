@@ -35,7 +35,7 @@
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+        <img src="https://avatars.githubusercontent.com/u/60325218?v=4&size=64" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
         <sub>
           <b>Waldir escouto pereira</b>
         </sub>
